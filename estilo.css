@@ -1,0 +1,10 @@
+input,a{
+    display: block;
+}
+
+[required]{
+    background-color:royalblue;
+    border: 0;
+    outline:0;
+    color: aliceblue;
+}
